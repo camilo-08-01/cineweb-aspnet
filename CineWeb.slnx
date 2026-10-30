@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Elementos de la solución/" />
+  <Project Path="CineWeb.csproj" Id="75d7a87c-125b-400b-8848-4f553027de11" />
+  <Project Path="Datos/Datos.csproj" Id="97e01519-dec3-4ca3-b94c-d7582e3d1aed" />
+  <Project Path="Modelo/Negocio.csproj" Id="994b28d9-823e-414b-9895-62461d0a7bae" />
+</Solution>
